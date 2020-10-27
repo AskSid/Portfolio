@@ -1,8 +1,6 @@
-# Siddharth Boppana's Computer Science Portfolio
+# Data Science Projects
 
-## Data Science Projects
-
-## USA Computing Olympiad Problems
+# USA Computing Olympiad Problems
 
 You can use the [editor on GitHub](https://github.com/AskSid/Sid_Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
