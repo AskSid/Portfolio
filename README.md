@@ -1,4 +1,13 @@
-# Data Science Projects
+# Projects
+## Fantasy Football Quarterback Points Estimator
+
+## Fantasy Football ____ Points Classifier
+
+## Housing Prices Estimator
+
+## Pixelated Clothing Classifier
+
+## BHS Schedule
 
 # USA Computing Olympiad Problems
 
