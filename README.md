@@ -27,7 +27,7 @@
 * Used a convolutional neural network to classify images into 10 types of clothing by training the model
 * The accuracy on the test set was 88.64% for classifying the images
 ![](https://github.com/AskSid/Portfolio/blob/main/images/clothing_classifier.png)
-* Bar graph indicates percentage chance of image being a type of clothing, left has image with the model's predicted probability of type
+* Bar graph indicates percentage chance of image being different types of clothing, left has image with the model's predicted probability of type
 
 ## [BHS Schedule](https://github.com/AskSid/schedule_classes)
 * Built for my personal use to determine what classes I have everyday for my school schedule
