@@ -6,7 +6,7 @@
 * Used a neural network from the TensorFlow/Keras library trained with a regression output
 * Outputs a ranking of the top 30 quarterbacks by fantasy football points
 * Does slightly worse than some ESPN analysts when using a mean-squared error metric of accuracy
-![](https://github.com/AskSid/Portfolio/blob/main/images/fantasy_regression.png)
+![](/images/fantasy_regression.png)
 * Table displays the actual fantasy points rankings, one ESPN analyst's rankings, and the neural network's ranking
 
 ## [Fantasy Football Wide Receiver Points Classifier](https://github.com/AskSid/Fantasy-Football-Classification)
