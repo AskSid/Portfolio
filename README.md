@@ -6,8 +6,9 @@
 * Used a neural network from the TensorFlow/Keras library trained with a regression output
 * Outputs a ranking of the top 30 quarterbacks by fantasy football points
 * Does slightly worse than some ESPN analysts when using a mean-squared error metric of accuracy
+
 ![](/images/fantasy_regression.png)
-* Table displays the actual fantasy points rankings, one ESPN analyst's rankings, and the neural network's ranking
+* Table displays the actual fantasy points rankings, one ESPN analyst's rankings, and the neural network's ranking for the 2019-2020 season
 
 ## [Fantasy Football Wide Receiver Points Classifier](https://github.com/AskSid/Fantasy-Football-Classification)
 * Predicts the interval of a wide receiver's fantasy football points per game between 1 and 5
@@ -15,7 +16,9 @@
 * Used a neural network from the TensorFlow/Keras library trained with a classification output
 * Ranks receivers by categorizing them by interval based on their previous season performance
 * Data originally from profootballreference.com
+
 ![](/images/fantasy_classifier.png)
+* Model's predicted top-30 fantasy points per game receivers in the 2019-2020 season
 
 ## [Housing Prices Estimator](https://github.com/AskSid/Housing-Prices-Regression)
 * From kaggle.com competition Ames Housing dataset as training and testing data
