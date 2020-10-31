@@ -1,6 +1,8 @@
-## Projects I'm Currently Working On or Planning To
+# Projects I'm Currently Working On or Planning To
 * [NFL Next Gen Stats Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2021)
 * [MNIST Data Set Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+
+# Finished Projects
 
 ## [Fantasy Football Quarterback Points Estimator](https://github.com/AskSid/Fantasy-Football-Regression)
 * Predicts the total season fantasy football points for a quarterback based on their previous season data
