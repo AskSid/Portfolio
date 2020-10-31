@@ -1,4 +1,7 @@
 # Projects
+## Projects I'm Currently Working On or Planning To
+* [NFL Next Gen Stats Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2021)
+* [MNIST Data Set Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
 
 ## [Fantasy Football Quarterback Points Estimator](https://github.com/AskSid/Fantasy-Football-Regression)
 * Predicts the total season fantasy football points for a quarterback based on their previous season data
@@ -25,6 +28,8 @@
 * Used regression analysis with a random forest regressor and a gradient boosting regressor to determine which would result in a more accurate output
 * Evaluated based on the root mean squared error between the log of the predicted value and log of the observed sales value
 * Accuracy of 98.14% and 98.73% using square eror of random forest and gradient boosting regressor respectively
+* Submitted on kaggle.com competition, placed 2371 out of 4480 submissions on first attempt
+
 ![](/images/housing_prices.png)
 * Red is actual housing prices, blue is predicted housing prices by model
 
@@ -32,6 +37,7 @@
 * Data from MNIST Fashion dataset of 25 by 25 pixelated grayscale images of clothing
 * Used a convolutional neural network to classify images into 10 types of clothing by training the model
 * The accuracy on the test set was 88.64% for classifying the images
+
 ![](/images/clothing_classifier.png)
 * Bar graph indicates percentage chance of image being different types of clothing, left has image with the model's predicted probability of type
 
