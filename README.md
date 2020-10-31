@@ -15,6 +15,7 @@
 * Used a neural network from the TensorFlow/Keras library trained with a classification output
 * Ranks receivers by categorizing them by interval based on their previous season performance
 * Data originally from profootballreference.com
+![](https://github.com/AskSid/Portfolio/blob/main/images/fantasy_classifier.png)
 
 ## [Housing Prices Estimator](https://github.com/AskSid/Housing-Prices-Regression)
 * From kaggle.com competition Ames Housing dataset as training and testing data
