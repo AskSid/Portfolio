@@ -6,7 +6,6 @@
 * Used a neural network from the TensorFlow/Keras library trained with a regression output
 * Outputs a ranking of the top 30 quarterbacks by fantasy football points
 * Does slightly worse than some ESPN analysts when using a mean-squared error metric of accuracy
-![]()
 
 ## [Fantasy Football Wide Receiver Points Classifier](https://github.com/AskSid/Fantasy-Football-Classification)
 * Predicts the interval of a wide receiver's fantasy football points per game between 1 and 5
@@ -20,11 +19,14 @@
 * Used regression analysis with a random forest regressor and a gradient boosting regressor to determine which would result in a more accurate output
 * Evaluated based on the root mean squared error between the log of the predicted value and log of the observed sales value
 * Accuracy of 98.14% and 98.73% using square eror of random forest and gradient boosting regressor respectively
+![](https://github.com/AskSid/Portfolio/blob/main/images/housing_prices.png)
 
 ## [Pixelated Clothing Classifier](https://github.com/AskSid/Clothing-Classifier)
 * Data from MNIST Fashion dataset of 25 by 25 pixelated grayscale images of clothing
 * Used a convolutional neural network to classify images into 10 types of clothing by training the model
 * The accuracy on the test set was 88.64% for classifying the images
+![](https://github.com/AskSid/Portfolio/blob/main/images/clothing_classifier.png)
+
 
 ## [BHS Schedule](https://github.com/AskSid/schedule_classes)
 * Built for my personal use to determine what classes I have everyday for my school schedule
