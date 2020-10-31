@@ -1,5 +1,5 @@
 # Siddharth Boppana's Portfolio of Computer Science Projects
-
+------------
 ## Projects I'm Currently Working On or Planning To
 * [NFL Next Gen Stats Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2021)
 * [MNIST Data Set Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
