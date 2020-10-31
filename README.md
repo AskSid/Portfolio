@@ -15,21 +15,21 @@
 * Used a neural network from the TensorFlow/Keras library trained with a classification output
 * Ranks receivers by categorizing them by interval based on their previous season performance
 * Data originally from profootballreference.com
-![](https://github.com/AskSid/Portfolio/blob/main/images/fantasy_classifier.png)
+![](/images/fantasy_classifier.png)
 
 ## [Housing Prices Estimator](https://github.com/AskSid/Housing-Prices-Regression)
 * From kaggle.com competition Ames Housing dataset as training and testing data
 * Used regression analysis with a random forest regressor and a gradient boosting regressor to determine which would result in a more accurate output
 * Evaluated based on the root mean squared error between the log of the predicted value and log of the observed sales value
 * Accuracy of 98.14% and 98.73% using square eror of random forest and gradient boosting regressor respectively
-![](https://github.com/AskSid/Portfolio/blob/main/images/housing_prices.png)
+![](/images/housing_prices.png)
 * Red is actual housing prices, blue is predicted housing prices by model
 
 ## [Pixelated Clothing Classifier](https://github.com/AskSid/Clothing-Classifier)
 * Data from MNIST Fashion dataset of 25 by 25 pixelated grayscale images of clothing
 * Used a convolutional neural network to classify images into 10 types of clothing by training the model
 * The accuracy on the test set was 88.64% for classifying the images
-![](https://github.com/AskSid/Portfolio/blob/main/images/clothing_classifier.png)
+![](/images/clothing_classifier.png)
 * Bar graph indicates percentage chance of image being different types of clothing, left has image with the model's predicted probability of type
 
 ## [BHS Schedule](https://github.com/AskSid/schedule_classes)
