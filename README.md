@@ -40,6 +40,6 @@
 * Predicts what classes a student will have based on a 7-day waterfall schedule where the student has 6 classes a day
 * Uses the datetime libraries to keep track of the date and day of the week
 
-# USA Computing Olympiad Problems
+# USA Computing Olympiad Problems 
 
 
