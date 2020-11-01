@@ -46,9 +46,6 @@
 
 ### [BHS Schedule](https://github.com/AskSid/schedule_classes)
 * Built for my personal use to determine what classes I have everyday for my school schedule
-* Predicts what classes a student will have based on a 7-day waterfall schedule where the student has 6 classes a day
-* Uses the datetime libraries to keep track of the date and day of the week
-
-# USA Computing Olympiad Problems 
+* Predicts what classes a student will have based on a 7-day waterfall schedule where the student has 6 classes a day 
 
 
